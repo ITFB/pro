@@ -25,8 +25,12 @@
 }
 
 - (void)testAction{
-    
-    exit(0);
+//    fixed bug 
+//    exit(0);
 }
 
+
+- (void)anotherAction{
+//...
+}
 @end
